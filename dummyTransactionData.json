@@ -1,0 +1,40 @@
+[
+{
+  "id": 519,
+  "CustomerId": 308,
+  "TukangCukurId": 5,
+  "status": "ongoing",
+  "createdAt": "2020-09-21T13:27:45.250Z",
+  "updatedAt": "2020-09-21T13:27:45.250Z",
+  "Customer": {
+    "id": 308,
+    "nama": "nama customer",
+    "alamat": "jl. Hacktiv no.8",
+    "telepon": "0812345678",
+    "password": "$2a$05$pJKaQf21ba88qHStVJCZyOb47f4QyU01GAgxw6FGhXBErOp1H.Wee",
+    "createdAt": "2020-09-21T13:27:44.960Z",
+    "updatedAt": "2020-09-21T13:27:44.960Z"
+  },
+  "TukangCukur": null,
+  "TransactionDetails": [
+    {
+      "id": 1585,
+      "TransactionId": 519,
+      "VarianId": 1,
+      "jumlah": 2,
+      "createdAt": "2020-09-21T13:27:45.307Z",
+      "updatedAt": "2020-09-21T13:27:45.307Z",
+      "Varian": [{"jenisCukur": "Potong rambut pria", "hargaCukur": 60000}]
+    },
+    {
+      "id": 1586,
+      "TransactionId": 519,
+      "VarianId": 6,
+      "jumlah": 5,
+      "createdAt": "2020-09-21T13:27:45.307Z",
+      "updatedAt": "2020-09-21T13:27:45.307Z",
+      "Varian": [{"jenisCukur": "Gentleman full package", "hargaCukur": 200000}]
+    }
+  ]
+}
+]
